@@ -18,7 +18,7 @@
       <header>Sign Up</header>
       <hr>
 
-      <form action="#" method="POST">
+      <form action="./signup.php" method="POST">
 
 
         <div class="form-box">
